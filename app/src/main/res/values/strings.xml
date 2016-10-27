@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pictures</string>
+    <string name="pictures">pictures</string>
+    <string name="search_title">search</string>
+    <string name="save">save</string>
+    <string name="orginal_image">Orginal Image</string>
+</resources>
